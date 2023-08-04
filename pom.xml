@@ -19,7 +19,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
 		<maven-compiler-pluging.version>3.2</maven-compiler-pluging.version>
 		
 		<!-- Spring MVC -->
-		<spring-framework.version>4.3.0.RELEASE</spring-framework.version>
+		<spring-framework.version>4.3.30.RELEASE</spring-framework.version>
 		
 		<!-- Servlet API -->
 		<servlet.version>3.1.0</servlet.version>
